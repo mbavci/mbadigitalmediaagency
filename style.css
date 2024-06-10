@@ -598,11 +598,15 @@
 }
 
 .company-info {
-	width: 20%;
+	width: 30%;
+}
+
+.company-info {
+    text-align: center;
 }
 
 .useful-links {
-    width: 20%;
+    width: 30%;
 }
 
 .useful-links ul {
